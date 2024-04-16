@@ -19,7 +19,7 @@ st.markdown("<h2 style = 'color: #5BBCFF; text-align: center; font-family: monts
 st.markdown("<p>By meticulously analyzing key parameters such as Manufacturing Expense, Administrative Expense, and Research and Development Spending, our team is committed to crafting a sophisticated predictive model tailored for the automotive sector. This endeavor seeks to furnish investors, stakeholders, and automotive industry leaders with actionable, data-driven insights. Additionally, this initiative serves as an invaluable resource for aspiring entrepreneurs within the automotive industry, offering a comprehensive framework to assess the feasibility of their business models and strategically enhance their operations for sustained long-term succe</p>", unsafe_allow_html= True)
 
 #SideBar Design
-st.sidebar.image('pngwing.com (12).png')
+st.sidebar.image('pngwing.com (13).png')
 
 st.sidebar.markdown("<br>", unsafe_allow_html = True)
 st.sidebar.markdown("<br>", unsafe_allow_html = True)
