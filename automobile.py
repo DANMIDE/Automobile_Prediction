@@ -6,7 +6,7 @@ warnings.filterwarnings('ignore')
 
 data = pd.read_csv('automobile.csv') 
 
-st.markdown("<h1 style = 'color: #627254; text-align: center; font-size: 60px; font-family:Helvetica'>AUTOMOBILE PRICE PREDICTOR</h1>", unsafe_allow_html = True)
+st.markdown("<h1 style = 'color: #F5F7F8; text-align: center; font-size: 60px; font-family:Helvetica'>AUTOMOBILE PRICE PREDICTOR</h1>", unsafe_allow_html = True)
 st.markdown("<h4 style = 'margin: -30px; color: #B80000; text-align: center; font-family: cursive '>Build By Salmon Crushers</h4>", unsafe_allow_html = True)
 st.markdown("<br>", unsafe_allow_html= True)
 
