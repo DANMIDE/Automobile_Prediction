@@ -6,12 +6,12 @@ warnings.filterwarnings('ignore')
 
 data = pd.read_csv('automobile.csv') 
 
-st.markdown("<h1 style = 'color: #FFF3C7; text-align: center; font-size: 60px; font-family:Helvetica'>AUTOMOBILE PRICE PREDICTOR</h1>", unsafe_allow_html = True)
+st.markdown("<h1 style = 'color: #0C359E; text-align: center; font-size: 60px; font-family:Helvetica'>AUTOMOBILE PRICE PREDICTOR</h1>", unsafe_allow_html = True)
 st.markdown("<h4 style = 'margin: -30px; color: #B80000; text-align: center; font-family: cursive '>Build By Salmon Crushers</h4>", unsafe_allow_html = True)
 st.markdown("<br>", unsafe_allow_html= True)
 
 #Add an Image 
-st.image('pngwing.com (11).png', caption = 'Built by Salmon')
+st.image('pngwing.com (11).png', caption = 'Built by Mide')
 
 # Add Project Problem body-stylement 
 st.markdown("<h2 style = 'color: #5BBCFF; text-align: center; font-family: montserrat '>Background Of Study</h2>", unsafe_allow_html = True)
